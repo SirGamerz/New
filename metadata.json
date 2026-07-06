@@ -1,0 +1,6 @@
+{
+  "name": "Shop Ledger Notebook",
+  "description": "A warm, lined-paper styled shop register for keeping track of customer ledger entries (Hisab), daily schedules, and stock levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
